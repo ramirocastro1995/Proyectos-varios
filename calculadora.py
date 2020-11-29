@@ -74,8 +74,6 @@ def boton_divide():
     f_num = int(first_number)
     e.delete(0, END)
 
-
-
 #definir botones
 #valores originales padx=40 pady=20
 boton_1 = Button(root,text="1", padx=20, pady=15, bg=color_botones_numeros , command=lambda: boton_click(1))
