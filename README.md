@@ -1,1 +1,1 @@
-# calculadora basica hecha con python usando el modulo tkinter
+# proyectos varios hechos con el modulo tkinter
