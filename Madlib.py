@@ -6,9 +6,9 @@ root.geometry('300x300')
 root.title('Madlib')
 Label(root, text = 'Generador de Madlibs' , font = 'arial 15 bold').pack()
 Label(root, text = 'Click en cualquiera :', font ='arial 15 bold').place(x=40,y=80)
-img = ImageTk.PhotoImage(Image.open("1.jpg"))
-panel = Label(root, image = img)
-panel.pack(side = "bottom", fill = "both", expand = "yes")
+#img = ImageTk.PhotoImage(Image.open("1.jpg"))
+#panel = Label(root, image = img)
+#panel.pack(side = "bottom", fill = "both", expand = "yes")
 
 def madlib1():
 
