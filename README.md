@@ -1,1 +1,1 @@
-# proyectos varios hechos con el modulo tkinter
+# proyectos varios para la consola hechos con tkinter
